@@ -60,7 +60,7 @@ export default function RootLayout({ children }) {
             </div>
 
             <div className="socials">
-            <p>© <a href="https://github.com/yuliaouyang" target="_blank">Yuni</a> 2025<br />Built with NextJS & FantaCSS 🛒</p>
+            <p>© <a href="https://yuliaouyang-portfolio.netlify.app/" target="_blank">Yuni</a> 2025<br />Built with NextJS & FantaCSS 🛒</p>
             <div className="social-links">
                   <Link href={'/'} target="_blank"><i className="fa-brands fa-github"></i></Link>
                   <Link href={'/'} target="_blank"><i className="fa-brands fa-youtube"></i></Link>
