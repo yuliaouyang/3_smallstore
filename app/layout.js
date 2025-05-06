@@ -44,8 +44,8 @@ export default function RootLayout({ children }) {
             <div className="links-container">
               <div>
                   <h3>Yuni</h3>
-                  <Link target="_blank" href={'https://github.com/yuliaouyang'}>Yuni Hub</Link>
-                  <Link target="_blank" href={'/'}>Roadmap</Link>
+                  <Link target="_blank" href={'https://github.com/yuliaouyang'}>Github</Link>
+                  <Link target="_blank" href={'https://www.linkedin.com/in/yuni-ouyang-a29980363/'}>Linkedin</Link>
               </div>
               <div>
                   <h3>Store</h3>
