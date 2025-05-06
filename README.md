@@ -1,7 +1,7 @@
 
 # Smallstore
 
-**Smallstore** is a super useful online store for programmers and productivity lovers. It allows users to browse curated items and complete purchases securely using Stripe.
+**Smallstore** is a super useful online store for programmers and productivity lovers. It allows users to browse curated items and complete purchases securely using Stripe. </br>
 Smallstore（スモールストア）は、プログラマーや生産性オタクのための便利なオンラインストアです。こだわりの商品を閲覧し、Stripeで安全に決済できます。
 
 ## 🔧 Core Features | 主な機能
@@ -23,7 +23,7 @@ Smallstore（スモールストア）は、プログラマーや生産性オタ�
 
 ## 📌 Project Purpose | プロジェクトの目的
 
-This project demonstrates my ability to build a fully functional e-commerce interface with third-party payment integration and a clean, intuitive user experience.
+This project demonstrates my ability to build a fully functional e-commerce interface with third-party payment integration and a clean, intuitive user experience. </br>
 このプロジェクトでは、外部決済サービスとの連携（Stripe）や、使いやすく直感的なUI/UX設計のスキルをアピールしています。
 
 ## 🔗 Links | リンク
